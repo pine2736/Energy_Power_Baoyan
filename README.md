@@ -29,7 +29,7 @@
 
 ## 📥 使用方式
 
-- **PDF 文件**：`Energy_Power_Baoyan.pdf` 已包含全文，建议release下载阅读。
+- **PDF 文件**：[Energy_Power_Baoyan.pdf](https://github.com/pine2736/Energy_Power_Baoyan/releases/download/v1.0.0/Energy_Power_Baoyan.pdf) 已包含全文，建议release下载阅读。
 - **适合人群**：大二、大三能动专业学生，尤其是正在准备**保研**的同学。
 - **更新计划**：欢迎提 Issue 或 PR 补充经验、修正疏漏！
 
